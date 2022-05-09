@@ -1,5 +1,5 @@
 # Box Run
-This is a Three.js game I am building which is kinda link trex run 🏃‍♂️ 😁
+This is a Three.js game I am building which is kinda like trex run 🏃‍♂️ 😁
 # Progress
 - [x] Basic Arrow Keys Movement
 - [x] Simple Game Menu
